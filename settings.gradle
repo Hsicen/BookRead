@@ -1,2 +1,4 @@
 rootProject.name = "BookRead"
 include ':app'
+include ':think_in_java'
+include ':firstcode'
